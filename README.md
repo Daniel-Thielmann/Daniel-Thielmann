@@ -1,5 +1,4 @@
-### Olá! Meu nome é Daniel Thielmann sou Desenvolvedor Full Stack estudante de Engenharia Computacional na UFJF e Acessor de Projetos na equipe de Front End na Code JR. 
-### Atualmente meu foco é front end em Next.JS na empresa, mas eu também sou muito adepto ao back end e mobile.
+### Olá! Meu nome é Daniel Thielmann sou Desenvolvedor Full Stack estudante de Engenharia Computacional na UFJF e Acessor de Projetos na equipe de Front End na Code JR. Atualmente meu foco é front end em Next.JS na empresa, mas eu também sou muito adepto ao back end.
 
 ## Matérias mais Relevantes na UFJF :
 Algoritmos | Estutura de Dados | Orientação a Objetos | Teoria dos Grafos | Circuitos Digitais | Organização de Computadores | Modelagem Computacional e Geométrica | Modelagem de Sistemas | Pesquisa Operacional | Análise e Projeto de Algoritmos | Banco de Dados | Sistemas Operacionais | Redes de Computadores | Linguagens Formais e Automatos | Métodos Computacionais aplicados a Engenharia | Programação Paralela | Cálculo Numérico.
@@ -47,7 +46,11 @@ Algoritmos | Estutura de Dados | Orientação a Objetos | Teoria dos Grafos | Ci
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Thielmann&hide=contribs,prs&theme=merko)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Thielmann&langs_count=8&theme=merko)
-
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="" style="width: 500;" src="https://github-readme-stats.vercel.app/api?username=Daniel-Thielmann&hide=contribs,prs&theme=merko" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="" style="width: 500;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel-Thielmann&layout=compact&langs_count=8&card_width=320&theme=merko" />
+  </a>
+</div>
