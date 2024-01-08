@@ -1,5 +1,5 @@
 ### Olá! Meu nome é Daniel Thielmann sou Desenvolvedor Full Stack estudante de Engenharia Computacional na UFJF e Acessor de Projetos na equipe de Front End na Code JR. 
-Atualmente meu foco é front end em Next.JS na empresa, mas eu também sou muito adepto ao back end e mobile.
+### Atualmente meu foco é front end em Next.JS na empresa, mas eu também sou muito adepto ao back end e mobile.
 
 ## Matérias mais Relevantes na UFJF :
 Algoritmos | Estutura de Dados | Orientação a Objetos | Teoria dos Grafos | Circuitos Digitais | Organização de Computadores | Modelagem Computacional e Geométrica | Modelagem de Sistemas | Pesquisa Operacional | Análise e Projeto de Algoritmos | Banco de Dados | Sistemas Operacionais | Redes de Computadores | Linguagens Formais e Automatos | Métodos Computacionais aplicados a Engenharia | Programação Paralela | Cálculo Numérico.
