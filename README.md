@@ -1,41 +1,110 @@
-### Estudante de Engenharia Computacional na UFJF, sempre busquei unir o desenvolvimento de software com o rigor da pesquisa científica. Após consolidar minha base no Front-end com React e boas práticas de engenharia (SOLID), decidi direcionar meu foco para a Engenharia de Dados.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner.png">
+    <img src="assets/banner.png" alt="Daniel Thielmann — Data Engineering · Machine Learning · Scientific Computing" width="100%">
+  </picture>
+</p>
 
-### Atualmente, minha dedicação está em aprofundar conhecimentos em Data Mining, Machine Learning, IA e Bancos de Dados. Meu trabalho foca na modelagem de sistemas complexos fundamentados em estatística e matemática aplicada.
+<p align="center">
+  <a href="https://github.com/Daniel-Thielmann?tab=repositories"><code>./repositories</code></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://linkedin.com/in/daniel-thielmann"><code>./linkedin</code></a>
+  &nbsp;&middot;&nbsp;
+  <a href="http://wa.me/5532991468218"><code>./contact</code></a>
+</p>
 
-### Como pesquisador em Neurociência Computacional, Visão Computacional e Agentes de IA, meu objetivo principal é aplicar minha sólida formação em modelagem de sistemas para resolver desafios reais de empresas e gerar valor através da tecnologia.
+---
 
-## Matérias mais Relevantes na UFJF :
-Algoritmos | Estutura de Dados | Orientação a Objetos | Teoria dos Grafos | Circuitos Digitais | Organização de Computadores | Modelagem Computacional e Geométrica | Modelagem de Sistemas | Pesquisa Operacional | Análise e Projeto de Algoritmos | Banco de Dados | Sistemas Operacionais | Redes de Computadores | Linguagens Formais e Automatos | Métodos Computacionais aplicados a Engenharia | Programação Paralela | Cálculo Numérico.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/section-headers.png">
+    <img src="assets/section-headers.png" alt="Section headers" width="100%">
+  </picture>
+</p>
 
-### Frameworks :
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## About
 
-## Linguagens de Programação:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+Engineer in training — building at the intersection of data, machine learning and scientific computing.
 
-## Bibliotecas:
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+My work spans end-to-end ETL pipelines, statistical models, AI-powered platforms and numerical simulation. I approach every problem with the rigor of research and the pragmatism of engineering.
 
-## Banco de Dados:
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+Previous experience in computational neuroscience, computer vision and full-stack development. Current focus: data engineering, ML systems and scientific computing infrastructure.
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="" style="width: 500;" src="https://github-readme-stats.vercel.app/api?username=Daniel-Thielmann&hide=contribs,prs&theme=merko" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="" style="width: 500;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel-Thielmann&layout=compact&langs_count=8&card_width=320&theme=merko" />
-  </a>
-</div>
+---
+
+## Featured Projects
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-cards.png">
+    <img src="assets/project-cards.png" alt="Featured projects" width="100%">
+  </picture>
+</p>
+
+---
+
+> **mixmind** — AI-powered DJ transition assistant using audio analysis and machine learning.
+>
+> **frete ai** — Intelligent freight quotation platform with AI-driven logistics automation.
+>
+> **eeg motor imagery classification** — BCI classification using FBCSP and fractal dimension analysis.
+>
+> **facial recognition** — CNN trained via metric learning for face verification, including masked faces.
+>
+> **hodgkin–huxley simulator** — Numerical simulation of action potential dynamics in neurons.
+>
+> **zipf law analysis** — ETL pipeline validating Zipf's Law via OLS regression and KS statistical tests.
+
+---
+
+## Research
+
+| Area                            | Topics                                                                                       |
+| ------------------------------- | -------------------------------------------------------------------------------------------- |
+| **Computational Neuroscience**  | EEG signal processing, BCI classification (FBCSP, fractal analysis), Hodgkin–Huxley modeling |
+| **Computer Vision**             | Facial recognition via metric learning, deep feature embeddings                              |
+| **Natural Language Processing** | Statistical text analysis, frequency distribution modeling, corpora comparison               |
+| **Geometric Modeling**          | Fractal geometry synthesis, GAN-based generation, numerical integration                      |
+
+---
+
+## Technical Stack
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech-stack.png">
+    <img src="assets/tech-stack.png" alt="Tech stack" width="100%">
+  </picture>
+</p>
+
+---
+
+## Knowledge Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/knowledge-graph.png">
+    <img src="assets/knowledge-graph.png" alt="Knowledge graph" width="100%">
+  </picture>
+</p>
+
+---
+
+## Evolution
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/timeline.png">
+    <img src="assets/timeline.png" alt="Career timeline" width="100%">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <code>thielmanndan@gmail.com</code>
+  &nbsp;&middot;&nbsp;
+  <a href="https://linkedin.com/in/daniel-thielmann"><code>linkedin.com/in/daniel-thielmann</code></a>
+  &nbsp;&middot;&nbsp;
+  <code>Juiz de Fora, MG · Brasil</code>
+</p>
