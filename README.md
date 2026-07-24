@@ -41,24 +41,15 @@ Previous experience in computational neuroscience, computer vision and full-stac
   </picture>
 </p>
 
-> **mixmind** — AI-powered DJ transition assistant using audio analysis and machine learning.
-> `[repository]`(https://github.com/Daniel-Thielmann/mixmind)
->
-> **frete ai** — Intelligent freight quotation platform with AI-driven logistics automation.
-> `[repository]`(https://github.com/Daniel-Thielmann/frete-ai)
->
-> **eeg motor imagery classification** — BCI classification using FBCSP and fractal dimension analysis.
-> `[repository]`(https://github.com/Daniel-Thielmann/ml-eeg-classification-fbcsp-fractal)
->
-> **facial recognition** — CNN trained via metric learning for face verification, including masked faces.
-> `[repository]`(https://github.com/Daniel-Thielmann/ml-facial-recognition)
->
-> **hodgkin–huxley simulator** — Numerical simulation of action potential dynamics in neurons.
-> `[repository]`(https://github.com/Daniel-Thielmann/neurocomp-hodgkin-huxley)
->
-> **zipf law analysis** — ETL pipeline validating Zipf's Law via OLS regression and KS statistical tests.
-> `[repository]`(https://github.com/Daniel-Thielmann/etl-zipf-law-analysis)
-
+- 🛒 **[Adrenalin Commerce](https://github.com/Daniel-Thielmann/adrenalin-commerce)** — Modern Full Stack E-commerce built with Next.js, TypeScript, Prisma and PostgreSQL.
+- 🎧 **[MixMind](https://github.com/Daniel-Thielmann/mixmind)** — AI-powered DJ Transition Assistant for intelligent music analysis.
+- 🚚 **[Frete AI](https://github.com/Daniel-Thielmann/frete-ai)** — AI-powered freight quotation platform with logistics automation.
+- 👤 **[Facial Recognition](https://github.com/Daniel-Thielmann/ml-facial-recognition)** — Computer Vision and Metric Learning for robust face recognition.
+- 🧠 **[EEG Classification](https://github.com/Daniel-Thielmann/ml-eeg-classification-fbcsp-fractal)** — Brain–Computer Interface (BCI) classification using FBCSP and Fractal Dimension analysis.
+- ⚡ **[EEG ETL Pipeline](https://github.com/Daniel-Thielmann/etl-eeg-motor-imagery-bnci)** — Signal processing, feature engineering and exploratory analysis for Motor Imagery EEG datasets.
+- 📊 **[Zipf Law Analysis](https://github.com/Daniel-Thielmann/etl-zipf-law-analysis)** — ETL pipeline and statistical validation of Zipf's Law using OLS and Kolmogorov–Smirnov tests.
+- 🧩 **[Geometric Fractal Lab](https://github.com/Daniel-Thielmann/ml-geometric-fractal-lab)** — Scientific Computing laboratory for fractal geometry, numerical methods and deep learning.
+  
 ---
 
 ## Research
