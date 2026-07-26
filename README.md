@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner.png">
-    <img src="assets/banner.png" alt="Daniel Thielmann — Data Engineering · Machine Learning · Scientific Computing" width="100%" style="max-width: 100%; height: auto;">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner.png?v=2">
+    <img src="assets/banner.png?v=2" alt="Daniel Thielmann — Data Engineering · Machine Learning · Scientific Computing" width="100%" style="max-width: 100%; height: auto;">
   </picture>
 </p>
 
@@ -17,8 +17,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/section-headers.png">
-    <img src="assets/section-headers.png" alt="Section headers: Data Engineering, Machine Learning, Artificial Intelligence, Scientific Computing" width="100%" style="max-width: 100%; height: auto;">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/section-headers.png?v=2">
+    <img src="assets/section-headers.png?v=2" alt="Section headers: Data Engineering, Machine Learning, Artificial Intelligence, Scientific Computing" width="100%" style="max-width: 100%; height: auto;">
   </picture>
 </p>
 
@@ -36,8 +36,8 @@ Previous experience in computational neuroscience, computer vision and full-stac
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/project-cards.png">
-    <img src="assets/project-cards.png" alt="Featured projects: MixMind AI, Frete AI, EEG Classification, Facial Recognition, Hodgkin-Huxley, Zipf Law" width="100%" style="max-width: 100%; height: auto;">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-cards.png?v=2">
+    <img src="assets/project-cards.png?v=2" alt="Featured projects: MixMind AI, Frete AI, EEG Classification, Facial Recognition, Hodgkin-Huxley, Zipf Law" width="100%" style="max-width: 100%; height: auto;">
   </picture>
 </p>
 
@@ -67,8 +67,8 @@ Previous experience in computational neuroscience, computer vision and full-stac
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/tech-stack.png">
-    <img src="assets/tech-stack.png" alt="Tech stack: Python, NumPy, Pandas, Scikit-learn, PyTorch, PostgreSQL, Docker, FastAPI" width="100%" style="max-width: 100%; height: auto;">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tech-stack.png?v=2">
+    <img src="assets/tech-stack.png?v=2" alt="Tech stack: Python, NumPy, Pandas, Scikit-learn, PyTorch, PostgreSQL, Docker, FastAPI" width="100%" style="max-width: 100%; height: auto;">
   </picture>
 </p>
 
@@ -78,8 +78,8 @@ Previous experience in computational neuroscience, computer vision and full-stac
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/knowledge-graph.png">
-    <img src="assets/knowledge-graph.png" alt="Knowledge graph: Engineering Core connected to Applied Mathematics, Software Engineering, Scientific Computing, Data and AI" width="100%" style="max-width: 100%; height: auto;">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/knowledge-graph.png?v=2">
+    <img src="assets/knowledge-graph.png?v=2" alt="Knowledge graph: Engineering Core connected to Applied Mathematics, Software Engineering, Scientific Computing, Data and AI" width="100%" style="max-width: 100%; height: auto;">
   </picture>
 </p>
 
@@ -89,8 +89,8 @@ Previous experience in computational neuroscience, computer vision and full-stac
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/timeline.png">
-    <img src="assets/timeline.png" alt="Career timeline: 2021 Computational Engineering to 2026 Machine Learning and Infrastructure" width="100%" style="max-width: 100%; height: auto;">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/timeline.png?v=2">
+    <img src="assets/timeline.png?v=2" alt="Career timeline: 2021 Computational Engineering to 2026 Machine Learning and Infrastructure" width="100%" style="max-width: 100%; height: auto;">
   </picture>
 </p>
 
