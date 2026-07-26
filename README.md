@@ -103,14 +103,24 @@ The graph maps how engineering core connects to applied mathematics, software en
 
 ## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daniel-Thielmann&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Thielmann&theme=github_dark&hide_border=true&background=00000000" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Thielmann&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        height="180"
+        src="https://github-readme-stats.shion.dev/api/top-langs/?username=Daniel-Thielmann&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"
+        alt="Most Used Languages"
+      />
+    </td>
+    <td>
+      <img
+        height="180"
+        src="https://streak-stats.demolab.com?user=Daniel-Thielmann&theme=github-dark-blue&hide_border=true"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
