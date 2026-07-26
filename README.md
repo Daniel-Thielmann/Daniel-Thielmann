@@ -15,20 +15,20 @@
 
 ---
 
+## About
+
+I'm a Computational Engineering student passionate about building intelligent systems through software engineering, data engineering, and machine learning. My work lives at the intersection of research and production — from numerical simulation and signal processing to AI platforms and ETL infrastructure.
+
+---
+
+## Areas of Focus
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/section-headers.png?v=2">
     <img src="assets/section-headers.png?v=2" alt="Section headers: Data Engineering, Machine Learning, Artificial Intelligence, Scientific Computing" width="100%" style="max-width: 100%; height: auto;">
   </picture>
 </p>
-
-## About
-
-Engineer in training — building at the intersection of data, machine learning and scientific computing.
-
-My work spans end-to-end ETL pipelines, statistical models, AI-powered platforms and numerical simulation. I approach every problem with the rigor of research and the pragmatism of engineering.
-
-Previous experience in computational neuroscience, computer vision and full-stack development. Current focus: data engineering, ML systems and scientific computing infrastructure.
 
 ---
 
@@ -41,29 +41,18 @@ Previous experience in computational neuroscience, computer vision and full-stac
   </picture>
 </p>
 
-- 🛒 **[Adrenalin Commerce](https://github.com/Daniel-Thielmann/adrenalin-commerce)** — Modern Full Stack E-commerce built with Next.js, TypeScript, Prisma and PostgreSQL.
-- 🎧 **[MixMind](https://github.com/Daniel-Thielmann/mixmind)** — AI-powered DJ Transition Assistant for intelligent music analysis.
-- 🚚 **[Frete AI](https://github.com/Daniel-Thielmann/frete-ai)** — AI-powered freight quotation platform with logistics automation.
-- 👤 **[Facial Recognition](https://github.com/Daniel-Thielmann/ml-facial-recognition)** — Computer Vision and Metric Learning for robust face recognition.
-- 🧠 **[EEG Classification](https://github.com/Daniel-Thielmann/ml-eeg-classification-fbcsp-fractal)** — Brain–Computer Interface (BCI) classification using FBCSP and Fractal Dimension analysis.
-- ⚡ **[EEG ETL Pipeline](https://github.com/Daniel-Thielmann/etl-eeg-motor-imagery-bnci)** — Signal processing, feature engineering and exploratory analysis for Motor Imagery EEG datasets.
-- 📊 **[Zipf Law Analysis](https://github.com/Daniel-Thielmann/etl-zipf-law-analysis)** — ETL pipeline and statistical validation of Zipf's Law using OLS and Kolmogorov–Smirnov tests.
-- 🧩 **[Geometric Fractal Lab](https://github.com/Daniel-Thielmann/ml-geometric-fractal-lab)** — Scientific Computing laboratory for fractal geometry, numerical methods and deep learning.
-  
----
+### Main Repositories
 
-## Research
-
-| Area                            | Topics                                                                                       |
-| ------------------------------- | -------------------------------------------------------------------------------------------- |
-| **Computational Neuroscience**  | EEG signal processing, BCI classification (FBCSP, fractal analysis), Hodgkin–Huxley modeling |
-| **Computer Vision**             | Facial recognition via metric learning, deep feature embeddings                              |
-| **Natural Language Processing** | Statistical text analysis, frequency distribution modeling, corpora comparison               |
-| **Geometric Modeling**          | Fractal geometry synthesis, GAN-based generation, numerical integration                      |
+- [Frete AI](https://github.com/Daniel-Thielmann/frete-ai) — AI freight quotation platform
+- [MixMind](https://github.com/Daniel-Thielmann/mixmind) — Intelligent DJ transition assistant
+- [EEG Classification](https://github.com/Daniel-Thielmann/ml-eeg-classification-fbcsp-fractal) — BCI via FBCSP and fractal analysis
+- [Facial Recognition](https://github.com/Daniel-Thielmann/ml-facial-recognition) — Metric learning for face recognition
+- [Zipf Law Analysis](https://github.com/Daniel-Thielmann/etl-zipf-law-analysis) — Statistical text analysis
+- [Adrenalin Commerce](https://github.com/Daniel-Thielmann/adrenalin-commerce) — Full-stack e-commerce platform
 
 ---
 
-## Technical Stack
+## Tech Stack
 
 <p align="center">
   <picture>
@@ -71,6 +60,8 @@ Previous experience in computational neuroscience, computer vision and full-stac
     <img src="assets/tech-stack.png?v=2" alt="Tech stack: Python, NumPy, Pandas, Scikit-learn, PyTorch, PostgreSQL, Docker, FastAPI" width="100%" style="max-width: 100%; height: auto;">
   </picture>
 </p>
+
+Core tools across data engineering, machine learning, and scientific computing — from Python and PyTorch to PostgreSQL and Docker.
 
 ---
 
@@ -83,9 +74,23 @@ Previous experience in computational neuroscience, computer vision and full-stac
   </picture>
 </p>
 
+The graph maps how engineering core connects to applied mathematics, software engineering, scientific computing, data, and AI — a unified view of the disciplines that shape my work.
+
 ---
 
-## Evolution
+## Research Interests
+
+- Computational Neuroscience
+- Brain–Computer Interfaces
+- Machine Learning
+- Scientific Computing
+- Computer Vision
+- Data Engineering
+- Numerical Methods
+
+---
+
+## Timeline
 
 <p align="center">
   <picture>
@@ -96,10 +101,25 @@ Previous experience in computational neuroscience, computer vision and full-stac
 
 ---
 
+## GitHub Analytics
+
 <p align="center">
-  <code>thielmanndan@gmail.com</code>
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniel-Thielmann&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Thielmann&theme=github_dark&hide_border=true&background=00000000" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Thielmann&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Top Languages" />
+</p>
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="https://github.com/Daniel-Thielmann"><code>github.com/Daniel-Thielmann</code></a>
   &nbsp;&middot;&nbsp;
   <a href="https://linkedin.com/in/daniel-thielmann"><code>linkedin.com/in/daniel-thielmann</code></a>
   &nbsp;&middot;&nbsp;
-  <code>Juiz de Fora, MG · Brasil</code>
+  <code>thielmanndan@gmail.com</code>
 </p>
